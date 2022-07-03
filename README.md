@@ -1,4 +1,4 @@
-##Hello World im Josue Obadovski👋
+ # <b>Hello World im Josue Obadovski👋</b>
 <div align="center">
   <a href="https://github.com/JosueObadovski">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=JosueObadovski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
