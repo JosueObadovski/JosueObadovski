@@ -1,12 +1,11 @@
-##Olá eu sou o Josué Obadovski Estudante no Curso de Engenharia de Software👋
+##Hello World im Josue Obadovski👋
 <div align="center">
   <a href="https://github.com/JosueObadovski">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=JosueObadovski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueObadovski&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Redes Sociais e Contato
-
+## Me encontre em outras Redes Sociais
 <div> 
   <a href="https://www.facebook.com/josueantonioobadovski//" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/josueobadovski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,7 +32,7 @@
   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a> 
   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></a> 
 
-## Progamações que realizei estudo e projetos
+## Languages and tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Josue-C" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white>
   <img align="center" alt="Josue-C++" src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white>
