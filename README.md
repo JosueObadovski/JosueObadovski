@@ -23,7 +23,7 @@
 ## Gamer Profiles
 
 <div> 
-  <a href="https://steamcommunity.com/id/josueantoniogardasz/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> 
+  <a href="https://steamcommunity.com/id/josueobadovski/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> 
   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" target="_blank"></a> 
   <a href="https://www.origin.com/bra/pt-br/profile/achievements" target="_blank"><img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white"></a> 
   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a> 
