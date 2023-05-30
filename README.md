@@ -1,9 +1,6 @@
  # <b>"Hello World im Josue Obadovski👋"</b>
 <div align="center">
   <a href="https://github.com/JosueObadovski">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JosueObadovski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueObadovski&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ## Connect with me:
   <a href="https://www.facebook.com/josueantonioobadovski//" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
