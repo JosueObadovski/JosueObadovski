@@ -19,6 +19,7 @@
  	<a href="https://www.twitch.tv/obadovskii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/KingJ#6418" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:josueantoniogardasz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "linktree.com/JosueObadovski"><img src=https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white></a>
 
 ## Gamer Profiles
 
