@@ -16,15 +16,15 @@
   <a href="https://www.reddit.com/user/JosueObadovski?utm_medium=android_app&utm_source=share" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
   <a href="https://br.pinterest.com/JosueObadovski/_saved/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCD2MnWZmKAPeldEncOmenUw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/obadovskii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/KingJ#6418" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 	<a href="https://www.twitch.tv/retromavenguy" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/915731999241695294" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:josueantoniogardasz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://linktr.ee/josue_obadovski" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 
 ## Gamer Profiles
 
 <div> 
-  <a href="https://steamcommunity.com/id/josueobadovski/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> 
+  <a href="https://steamcommunity.com/id/retromavenguy/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> 
   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" target="_blank"></a> 
   <a href="https://www.origin.com/bra/pt-br/profile/achievements" target="_blank"><img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white"></a> 
   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a> 
