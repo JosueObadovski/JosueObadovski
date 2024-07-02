@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Josué Obadovski</h1>
 <h3 align="center">A passionate academic in software engineering in Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josueobadovski&label=Profile%20views&color=0e75b6&style=flat" alt="josueobadovski" /> </p>
-
-<p align="left"> <a href="https://twitter.com/josueobadovski" target="blank"><img src="https://img.shields.io/twitter/follow/josueobadovski?logo=twitter&style=for-the-badge" alt="josueobadovski" /></a> </p>
+<p align="left" style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=josueobadovski&label=Profile%20views&color=0e75b6&style=flat" alt="josueobadovski" />
+  <a href="https://twitter.com/josueobadovski" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/twitter/follow/josueobadovski?logo=twitter&style=for-the-badge" alt="josueobadovski" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Virtual Reality, Augmented Reality and Metaverse**
 
@@ -71,8 +74,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josueobadovski&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="josueobadovski" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josueobadovski&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="josueobadovski" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josueobadovski&show_icons=true&locale=en&theme=synthwave" alt="josueobadovski" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josueobadovski&show_icons=true&locale=en&theme=tokyonight" alt="josueobadovski" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josueobadovski&theme=synthwave" alt="josueobadovski" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josueobadovski&theme=tokyonight" alt="josueobadovski" /></p>
