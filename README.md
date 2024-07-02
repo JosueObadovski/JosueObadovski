@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/josueobadovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josueobadovski" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/josueobadovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josueobadovski" height="30" width="40" /></a>
-<a href="https://fb.com/josueantonioobadovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josueantonioobadovski" height="30" width="40" /></a>
+<a href="https://www.facebook.com/josueantonioobadovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josueantonioobadovski" height="30" width="40" /></a>
 <a href="https://instagram.com/josueobadovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josueobadovski" height="30" width="40" /></a>
 </p>
 
