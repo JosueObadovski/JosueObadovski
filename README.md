@@ -1,10 +1,3 @@
- # <b>"Hello World im Josue Obadovski👋"</b>
-<div align="center">
-  <a href="https://github.com/JosueObadovski">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JosueObadovski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueObadovski&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm Josué Obadovski</h1>
 <h3 align="center">A passionate academic in software engineering in Brazil</h3>
 
