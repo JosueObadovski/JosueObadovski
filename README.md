@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2a003f,100:ff00c8&text=JOSUÉ%20OBADOVSKI&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2a003f,100:ff00c8&animation=twinkling&text=JOSUÉ%20OBADOVSKI&fontSize=45&fontColor=ffffff"/>
 
 </div>
 
@@ -8,13 +8,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=1000&color=ffd200&center=true&vCenter=true&width=700&lines=Software+Engineering;Exploring+Governance+%26+Risk;Blockchain+%26+Digital+Trust;Signal+Over+Noise"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=900&color=ffd200&center=true&vCenter=true&width=700&lines=Software+Engineering;Creative+Systems;Governance+Exploration;1986+Aesthetic"/>
 
 </div>
 
 ---
 
-## 🌅 Direction
+## 🎛 Direction
 
 <table>
 <tr>
@@ -23,9 +23,9 @@
 B.Sc. in Software Engineering — graduating June 2026  
 Technology Degree in Systems Analysis and Development  
 
-Interested in governance-oriented roles, risk analysis fundamentals and blockchain ecosystems.
+Exploring governance-oriented roles, risk fundamentals and blockchain ecosystems.
 
-Long-term focus on structured systems and digital trust.
+Structured thinking, long-term systems and digital trust.
 
 </td>
 
@@ -43,14 +43,14 @@ Long-term focus on structured systems and digital trust.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2a003f?style=for-the-badge&logo=linkedin&logoColor=ffd200)](https://www.linkedin.com/in/josueobadovski/pt/)
-[![Repositories](https://img.shields.io/badge/Repositories-2a003f?style=for-the-badge&logo=github&logoColor=ff00c8)](https://github.com/JosueObadovski?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2a003f?style=for-the-badge&logo=linkedin&logoColor=ffd200)](https://www.linkedin.com/in/josueobadovski/pt/)
+[![REPOSITORIES](https://img.shields.io/badge/REPOSITORIES-2a003f?style=for-the-badge&logo=github&logoColor=ff00c8)](https://github.com/JosueObadovski?tab=repositories)
 
 </div>
 
 ---
 
-## 📊 Activity
+## 📊 System Activity
 
 <div align="center">
 
@@ -69,10 +69,29 @@ Long-term focus on structured systems and digital trust.
 
 ---
 
+## 🕹 Pac-Man Mode
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Praveen1109/github-profile-summary-cards-example/master/pacman-contribution-graph.svg"/>
+
+</div>
+
+---
+
+## 🧠 Approach
+
+- Structure over chaos  
+- Risk awareness  
+- Governance curiosity  
+- Creativity in presentation  
+
+---
+
 <div align="center">
 
 <span style="color:#ffd200">1986 aesthetic</span>  
-<span style="color:#ff00c8">Structure over chaos</span>
+<span style="color:#ff00c8">Creative over conventional</span>
 
 </div>
 
@@ -80,6 +99,6 @@ Long-term focus on structured systems and digital trust.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff00c8,100:2a003f&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:ff00c8,100:2a003f&section=footer"/>
 
 </div>
