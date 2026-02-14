@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2a003f,100:ff00c8&animation=twinkling&text=JOSUÉ%20OBADOVSKI&fontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2a003f,100:ff00c8&animation=twinkling&text=JOSUÉ%20OBADOVSKI&fontSize=50&fontColor=ffffff"/>
 
 </div>
 
@@ -8,13 +8,25 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=900&color=ffd200&center=true&vCenter=true&width=750&lines=SYSTEM+INITIALIZING...;SOFTWARE+ENGINEERING;GOVERNANCE+EXPLORATION;1986+MODE+ACTIVE"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=900&color=ffd200&center=true&vCenter=true&width=750&lines=Software+Engineering;Governance+%26+Risk;Creative+Systems"/>
 
 </div>
 
 ---
 
-## 🎛 Direction
+<div align="center">
+
+<marquee behavior="scroll" direction="left" scrollamount="8">
+
+🟣 SIGNAL > NOISE 💛 STRUCTURE > CHAOS 🟣 LONG-TERM THINKING 💛 CREATIVE SYSTEMS 🟣
+
+</marquee>
+
+</div>
+
+---
+
+## Direction
 
 <table>
 <tr>
@@ -23,17 +35,13 @@
 B.Sc. in Software Engineering — graduating June 2026  
 Technology Degree in Systems Analysis and Development  
 
-Exploring governance-oriented roles, risk fundamentals and blockchain ecosystems.
-
-Creative presentation.  
-Structured thinking.  
-Long-term systems.
+Exploring governance-oriented roles and digital trust systems.
 
 </td>
 
 <td width="40%" align="right">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTg0cnc2cWUzd2hnMjlzam1xem9obmlyN2FoYjR3N3UwMzhybXoyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPU3Ahx6wGsRCDVgV0/giphy.gif" width="260"/>
 
 </td>
 </tr>
@@ -41,60 +49,7 @@ Long-term systems.
 
 ---
 
-## 🧬 System Interface — 1986
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 Core Module
-
-- Status: Stable  
-- Mode: Creative  
-- Architecture: Structured  
-- Burnout Policy: Disabled  
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💛 Signal Layer
-
-- Governance Curiosity: Active  
-- Risk Awareness: Developing  
-- Blockchain Interest: Growing  
-- Noise Filter: Enabled  
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-██████████████████████████████  
-█ SYSTEM STATUS: OPERATIONAL █  
-██████████████████████████████  
-
-</div>
-
----
-
-## 💾 Boot Console
-
-```bash
-> boot sequence initiated...
-> scanning governance frameworks...
-> risk model initializing...
-> blockchain nodes detected...
-> creativity engine online...
-> system ready.
-```
-
----
-
-## 🔗 Network Access
+## Connect
 
 <div align="center">
 
@@ -105,7 +60,7 @@ Long-term systems.
 
 ---
 
-## 📊 Activity Matrix
+## Activity
 
 <div align="center">
 
@@ -119,44 +74,6 @@ Long-term systems.
 </div>
 
 ---
-
-## 🕶 1986 Mode
-
-<details>
-<summary>ENTER RETROWAVE INTERFACE</summary>
-
-<br>
-
-```
-        🌴        🌴
-    ───────────────────
-    ░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░░░░░░░░░░░░░
-        ███████████
-         █████████
-          ███████
-           █████
-            ███
-             █
-```
-
-Signal over noise.  
-Structure over chaos.  
-Creative over conventional.
-
-</details>
-
----
-
-<div align="center">
-
-<span style="color:#ffd200">1986 aesthetic</span>  
-<span style="color:#ff00c8">Creative systems</span>  
-<span style="color:#2a003f">Structured thinking</span>
-
-</div>
-
-<br>
 
 <div align="center">
 
