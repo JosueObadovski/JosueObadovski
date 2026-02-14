@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,14,30&text=JOSUÉ%20OBADOVSKI&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2a003f,100:ff00c8&animation=twinkling&text=JOSUÉ%20OBADOVSKI&fontSize=45&fontColor=ffffff"/>
 
 </div>
 
@@ -8,34 +8,21 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Software+Engineering;Exploring+Governance+%26+Risk;Blockchain+%26+Digital+Trust;Signal+Over+Noise"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=900&color=ffd200&center=true&vCenter=true&width=700&lines=Software+Engineering;Creative+Systems;Governance+Exploration;1986+Aesthetic"/>
 
 </div>
 
----
+@@ -25,7 +25,9 @@ Technology Degree in Systems Analysis and Development
 
-## 🌅 Direction
+Exploring governance-oriented roles, risk fundamentals and blockchain ecosystems.
 
-
-
-
-
-B.Sc. in Software Engineering — graduating June 2026  
-Technology Degree in Systems Analysis and Development  
-
-Exploring governance-oriented roles and long-term digital trust systems.
-
----
+Structured thinking, long-term systems and digital trust.
 
 
 
-## ⚖️ Interests
+</td>
 
-• Governance frameworks  
-• Risk analysis fundamentals  
-• Blockchain & crypto regulatory landscape  
-• Compliance structures  
-• Process design & structural thinking  
+@@ -39,66 +41,125 @@ Structured thinking, long-term systems and digital trust.
 
 ---
 
@@ -43,25 +30,74 @@ Exploring governance-oriented roles and long-term digital trust systems.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=ff00ff)](https://www.linkedin.com/in/josueobadovski/pt/)
 
-[![Repositories](https://img.shields.io/badge/Repositories-111111?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/JosueObadovski?tab=repositories)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2a003f?style=for-the-badge&logo=linkedin&logoColor=ffd200)](https://www.linkedin.com/in/josueobadovski/pt/)
+[![REPOSITORIES](https://img.shields.io/badge/REPOSITORIES-2a003f?style=for-the-badge&logo=github&logoColor=ff00c8)](https://github.com/JosueObadovski?tab=repositories)
 
 </div>
 
-@@ -49,31 +54,32 @@ Exploring governance-oriented roles and long-term digital trust systems.
+
+
+
+---
+
+
+
+
+
+## 📊 System Activity
+
+
+
+
+
+
+
+
+
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josueobadovski&theme=radical"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josueobadovski&theme=radical"/>
+
+
+
+</div>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josueobadovski&theme=radical"/>
 
-<br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josueobadovski&theme=radical"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josueobadovski&theme=radical"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josueobadovski&theme=radical"/>
+
+</div>
+
+---
+
+## 🕹 Pac-Man Mode
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Praveen1109/github-profile-summary-cards-example/master/pacman-contribution-graph.svg"/>
+
+
 
 
 
@@ -70,17 +106,28 @@ Exploring governance-oriented roles and long-term digital trust systems.
 
 ---
 
-<div align="center">
+## 🧠 Approach
 
-1986 aesthetic.  
-Structure over noise.
 
-</div>
 
-<br>
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=30,14,12,6&section=footer"/>
 
-</div>
+- Structure over chaos  
+- Risk awareness  
+- Governance curiosity  
+- Creativity in presentation  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
