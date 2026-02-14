@@ -16,11 +16,7 @@
 
 <div align="center">
 
-<marquee behavior="scroll" direction="left" scrollamount="8">
-
-🟣 SIGNAL > NOISE 💛 STRUCTURE > CHAOS 🟣 LONG-TERM THINKING 💛 CREATIVE SYSTEMS 🟣
-
-</marquee>
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
 </div>
 
@@ -30,18 +26,21 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-B.Sc. in Software Engineering — graduating June 2026  
+B.Sc. in Software Engineering  
+Graduating June 2026  
+
 Technology Degree in Systems Analysis and Development  
 
-Exploring governance-oriented roles and digital trust systems.
+Exploring governance-oriented roles  
+and digital trust systems.
 
 </td>
 
-<td width="40%" align="right">
+<td width="45%" align="right">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTg0cnc2cWUzd2hnMjlzam1xem9obmlyN2FoYjR3N3UwMzhybXoyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPU3Ahx6wGsRCDVgV0/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="250"/>
 
 </td>
 </tr>
@@ -49,18 +48,22 @@ Exploring governance-oriented roles and digital trust systems.
 
 ---
 
-## Connect
+## Let’s Connect
 
 <div align="center">
 
+If something here resonates with you — feel free to reach out.
+
+<br><br>
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-2a003f?style=for-the-badge&logo=linkedin&logoColor=ffd200)](https://www.linkedin.com/in/josueobadovski/pt/)
-[![REPOSITORIES](https://img.shields.io/badge/REPOSITORIES-ff00c8?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/JosueObadovski?tab=repositories)
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-ff00c8?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/JosueObadovski?tab=repositories)
 
 </div>
 
 ---
 
-## Activity
+## Digital Footprint
 
 <div align="center">
 
@@ -68,15 +71,4 @@ Exploring governance-oriented roles and digital trust systems.
 
 <br>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josueobadovski&theme=radical"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josueobadovski&theme=radical"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff00c8,100:2a003f&section=footer"/>
-
-</div>
+<img height
