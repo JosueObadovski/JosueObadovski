@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2a003f,100:ff00c8&animation=twinkling&text=JOSUÉ%20OBADOVSKI&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2a003f,100:ff00c8&animation=twinkling&text=JOSUÉ%20OBADOVSKI&fontSize=50&fontColor=ffffff"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=900&color=ffd200&center=true&vCenter=true&width=700&lines=Software+Engineering;Creative+Systems;Governance+Exploration;1986+Aesthetic"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=900&color=ffd200&center=true&vCenter=true&width=750&lines=SYSTEM+INITIALIZING...;SOFTWARE+ENGINEERING;GOVERNANCE+EXPLORATION;1986+MODE+ACTIVE"/>
 
 </div>
 
@@ -25,7 +25,9 @@ Technology Degree in Systems Analysis and Development
 
 Exploring governance-oriented roles, risk fundamentals and blockchain ecosystems.
 
-Structured thinking, long-term systems and digital trust.
+Creative presentation.  
+Structured thinking.  
+Long-term systems.
 
 </td>
 
@@ -39,28 +41,77 @@ Structured thinking, long-term systems and digital trust.
 
 ---
 
-## 🔗 Connect
+## 🧬 System Interface — 1986
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 Core Module
+
+- Status: Stable  
+- Mode: Creative  
+- Architecture: Structured  
+- Burnout Policy: Disabled  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💛 Signal Layer
+
+- Governance Curiosity: Active  
+- Risk Awareness: Developing  
+- Blockchain Interest: Growing  
+- Noise Filter: Enabled  
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2a003f?style=for-the-badge&logo=linkedin&logoColor=ffd200)](https://www.linkedin.com/in/josueobadovski/pt/)
-[![REPOSITORIES](https://img.shields.io/badge/REPOSITORIES-2a003f?style=for-the-badge&logo=github&logoColor=ff00c8)](https://github.com/JosueObadovski?tab=repositories)
+██████████████████████████████  
+█ SYSTEM STATUS: OPERATIONAL █  
+██████████████████████████████  
 
 </div>
 
 ---
 
-## 📊 System Activity
+## 💾 Boot Console
+
+```bash
+> boot sequence initiated...
+> scanning governance frameworks...
+> risk model initializing...
+> blockchain nodes detected...
+> creativity engine online...
+> system ready.
+```
+
+---
+
+## 🔗 Network Access
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josueobadovski&theme=radical"/>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2a003f?style=for-the-badge&logo=linkedin&logoColor=ffd200)](https://www.linkedin.com/in/josueobadovski/pt/)
+[![REPOSITORIES](https://img.shields.io/badge/REPOSITORIES-ff00c8?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/JosueObadovski?tab=repositories)
 
 </div>
 
-<br>
+---
+
+## 📊 Activity Matrix
 
 <div align="center">
+
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josueobadovski&theme=radical"/>
+
+<br>
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josueobadovski&theme=radical"/>
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josueobadovski&theme=radical"/>
@@ -69,29 +120,39 @@ Structured thinking, long-term systems and digital trust.
 
 ---
 
-## 🕹 Pac-Man Mode
+## 🕶 1986 Mode
 
-<div align="center">
+<details>
+<summary>ENTER RETROWAVE INTERFACE</summary>
 
-<img src="https://raw.githubusercontent.com/Praveen1109/github-profile-summary-cards-example/master/pacman-contribution-graph.svg"/>
+<br>
 
-</div>
+```
+        🌴        🌴
+    ───────────────────
+    ░░░░░░░░░░░░░░░░░░░░
+    ░░░░░░░░░░░░░░░░░░░░
+        ███████████
+         █████████
+          ███████
+           █████
+            ███
+             █
+```
 
----
+Signal over noise.  
+Structure over chaos.  
+Creative over conventional.
 
-## 🧠 Approach
-
-- Structure over chaos  
-- Risk awareness  
-- Governance curiosity  
-- Creativity in presentation  
+</details>
 
 ---
 
 <div align="center">
 
 <span style="color:#ffd200">1986 aesthetic</span>  
-<span style="color:#ff00c8">Creative over conventional</span>
+<span style="color:#ff00c8">Creative systems</span>  
+<span style="color:#2a003f">Structured thinking</span>
 
 </div>
 
@@ -99,6 +160,6 @@ Structured thinking, long-term systems and digital trust.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:ff00c8,100:2a003f&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff00c8,100:2a003f&section=footer"/>
 
 </div>
