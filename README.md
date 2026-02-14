@@ -16,16 +16,20 @@
 
 ## 🌅 Direction
 
-Graduating in Software Engineering (June 2026)  
+B.Sc. in Software Engineering — graduating June 2026  
 Technology Degree in Systems Analysis and Development  
 
-Currently exploring:
+Exploring governance-oriented roles and long-term digital trust systems.
 
-• Governance-oriented roles  
-• Risk & compliance fundamentals  
-• Blockchain & crypto-economics ecosystems  
+---
 
-Interested in structured environments, long-term thinking and balanced work culture.
+## ⚖️ Interests
+
+• Governance frameworks  
+• Risk analysis fundamentals  
+• Blockchain & crypto regulatory landscape  
+• Compliance structures  
+• Process design & structural thinking  
 
 ---
 
@@ -47,6 +51,14 @@ Interested in structured environments, long-term thinking and balanced work cult
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josueobadovski&theme=radical"/>
 
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josueobadovski&theme=radical"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josueobadovski&theme=radical"/>
+
 </div>
 
 ---
@@ -54,6 +66,14 @@ Interested in structured environments, long-term thinking and balanced work cult
 <div align="center">
 
 1986 aesthetic.  
-Long-term structure over short-term chaos.
+Structure over noise.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=30,14,12,6&section=footer"/>
 
 </div>
