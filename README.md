@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2a003f,100:ff00c8&animation=twinkling&text=JOSUÉ%20OBADOVSKI&fontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,14,30&text=JOSUÉ%20OBADOVSKI&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
@@ -8,67 +8,79 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=900&color=ffd200&center=true&vCenter=true&width=750&lines=Software+Engineering;Governance+%26+Risk;Creative+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Software+Engineering;Exploring+Governance+%26+Risk;Blockchain+%26+Digital+Trust;Signal+Over+Noise"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 🌅 Direction
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
-</div>
 
----
 
-## Direction
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-B.Sc. in Software Engineering  
-Graduating June 2026  
-
+B.Sc. in Software Engineering — graduating June 2026  
 Technology Degree in Systems Analysis and Development  
 
-Exploring governance-oriented roles  
-and digital trust systems.
-
-</td>
-
-<td width="45%" align="right">
-
-<img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="250"/>
-
-</td>
-</tr>
-</table>
+Exploring governance-oriented roles and long-term digital trust systems.
 
 ---
 
-## Let’s Connect
+
+
+## ⚖️ Interests
+
+• Governance frameworks  
+• Risk analysis fundamentals  
+• Blockchain & crypto regulatory landscape  
+• Compliance structures  
+• Process design & structural thinking  
+
+---
+
+## 🔗 Connect
 
 <div align="center">
 
-If something here resonates with you — feel free to reach out.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=ff00ff)](https://www.linkedin.com/in/josueobadovski/pt/)
 
-<br><br>
+[![Repositories](https://img.shields.io/badge/Repositories-111111?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/JosueObadovski?tab=repositories)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2a003f?style=for-the-badge&logo=linkedin&logoColor=ffd200)](https://www.linkedin.com/in/josueobadovski/pt/)
-[![Repositories](https://img.shields.io/badge/REPOSITORIES-ff00c8?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/JosueObadovski?tab=repositories)
+</div>
+
+@@ -49,31 +54,32 @@ Exploring governance-oriented roles and long-term digital trust systems.
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josueobadovski&theme=radical"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josueobadovski&theme=radical"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josueobadovski&theme=radical"/>
+
+
+
 
 </div>
 
 ---
 
-## Digital Footprint
-
 <div align="center">
 
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josueobadovski&theme=radical"/>
+1986 aesthetic.  
+Structure over noise.
+
+</div>
 
 <br>
 
-<img height
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=30,14,12,6&section=footer"/>
+
+</div>
