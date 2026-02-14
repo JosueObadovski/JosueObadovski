@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,14,30&text=JOSUÉ%20OBADOVSKI&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,14,30&text=JOSUÉ%20OBADOVSKI&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
@@ -8,58 +8,36 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Governance+%7C+Risk+%7C+Compliance;Digital+Trust;Blockchain+%7C+Crypto+Economics;Signal+Over+Noise"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Software+Engineering;Exploring+Governance+%26+Risk;Blockchain+%26+Digital+Trust;Signal+Over+Noise"/>
 
 </div>
 
 ---
 
-<br>
+## 🌅 Direction
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ4R1pJY8k/giphy.gif" width="500"/>
-
-</div>
-
----
-
-## 🌅 Focus
-
-Governance, Risk and Compliance (GRC)  
-Digital trust systems  
-Blockchain & crypto-economics compliance  
-
-Structured thinking over chaotic execution.
-
----
-
-## 🎓 Background
-
-B.Sc. in Software Engineering — graduating June 2026  
+Graduating in Software Engineering (June 2026)  
 Technology Degree in Systems Analysis and Development  
 
-Experience building and reviewing systems with attention to:
+Currently exploring:
 
-- Risk exposure  
-- Structural integrity  
-- Process clarity  
-- Compliance awareness  
+• Governance-oriented roles  
+• Risk & compliance fundamentals  
+• Blockchain & crypto-economics ecosystems  
+
+Interested in structured environments, long-term thinking and balanced work culture.
 
 ---
 
-## 🧭 Professional Orientation
+## 🔗 Connect
 
-Not centered on code production.  
-Centered on:
+<div align="center">
 
-- Governance structures  
-- Risk analysis  
-- Compliance logic  
-- Security review  
-- Strategic oversight  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=ff00ff)](https://www.linkedin.com/in/josueobadovski/pt/)
 
-Engineering as analysis — not exhaustion.
+[![Repositories](https://img.shields.io/badge/Repositories-111111?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/JosueObadovski?tab=repositories)
+
+</div>
 
 ---
 
@@ -67,7 +45,7 @@ Engineering as analysis — not exhaustion.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josueobadovski&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josueobadovski&theme=radical"/>
 
 </div>
 
@@ -76,15 +54,6 @@ Engineering as analysis — not exhaustion.
 <div align="center">
 
 1986 aesthetic.  
-Long-term thinking.  
-Structured systems.
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=30,14,12,6&section=footer"/>
+Long-term structure over short-term chaos.
 
 </div>
