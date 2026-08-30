@@ -8,8 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=900&color=ffd200&center=true&vCenter=true&width=700&lines=Software+Engineering;Creative+Systems;Governance+Exploration"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=900&color=ffd200&center=true&vCenter=true&width=700&lines=Quality+Assurance;Manual+%26+Functional+Testing;API+Testing+%7C+Postman+%7C+SQL"/>
 </div>
 
 ---
