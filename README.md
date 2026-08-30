@@ -20,13 +20,11 @@
 <tr>
 <td width="60%" valign="top">
 
-B.Sc. in Software Engineering — graduating June 2026  
-Technology Degree in Systems Analysis and Development  
+B.Sc. in Software Engineering and Technology Degree in Systems Analysis and Development.  
 
-Exploring governance-oriented roles, risk fundamentals and blockchain ecosystems.
+Focused on Quality Assurance, Manual & Functional Testing, API Testing, Postman and SQL.
 
-Structured thinking and long-term systems.
-
+Building practical QA projects involving test cases, bug reporting and software validation.
 </td>
 
 <td width="40%" align="right">
